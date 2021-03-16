@@ -1,11 +1,11 @@
 import React from 'react'
 
-function tuan() {
+function tu() {
     return (
         <div>
-            test-deloy-1
+            teeee
         </div>
     )
 }
 
-export default tuan
+export default tu
